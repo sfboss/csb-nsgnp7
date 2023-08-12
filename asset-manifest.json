@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://sfboss.github.io/csb-nsgnp7/static/css/main.f29ae65a.chunk.css",
+    "main.js": "https://sfboss.github.io/csb-nsgnp7/static/js/main.adcce0da.chunk.js",
+    "main.js.map": "https://sfboss.github.io/csb-nsgnp7/static/js/main.adcce0da.chunk.js.map",
+    "runtime-main.js": "https://sfboss.github.io/csb-nsgnp7/static/js/runtime-main.02e92c95.js",
+    "runtime-main.js.map": "https://sfboss.github.io/csb-nsgnp7/static/js/runtime-main.02e92c95.js.map",
+    "static/js/2.465a0006.chunk.js": "https://sfboss.github.io/csb-nsgnp7/static/js/2.465a0006.chunk.js",
+    "static/js/2.465a0006.chunk.js.map": "https://sfboss.github.io/csb-nsgnp7/static/js/2.465a0006.chunk.js.map",
+    "index.html": "https://sfboss.github.io/csb-nsgnp7/index.html",
+    "static/css/main.f29ae65a.chunk.css.map": "https://sfboss.github.io/csb-nsgnp7/static/css/main.f29ae65a.chunk.css.map",
+    "static/js/2.465a0006.chunk.js.LICENSE.txt": "https://sfboss.github.io/csb-nsgnp7/static/js/2.465a0006.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.02e92c95.js",
+    "static/js/2.465a0006.chunk.js",
+    "static/css/main.f29ae65a.chunk.css",
+    "static/js/main.adcce0da.chunk.js"
+  ]
+}
